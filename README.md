@@ -1,24 +1,44 @@
-### Hi there 👋
+<div align="center" >
+  <h1>
+    Hey there!
+    <img src="https://media1.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611a47aac1b6e8a5687f01361b8c8945718d875ff64&rid=giphy.gif&ct=s" width="30px" />
+  </h1>
+<p>I'm Wesley, and I'm a UWO Software Engineering graduate and Full-Stack Developer!</p>
+<p>I love powerlifting, playing video games, and chess</p>
+<p>Currently open to and looking for work</p>
+</div>
+<div id="badges" align="center" >
+  <a href="https://linkedin.com/in/wescorner" >
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/wescorner" >
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" />
+  </a>
+</div>
 
-I'm Wesley, and I'm a UWO Software Engineering graduate and Full-Stack Developer!
+<div id="stats" align="center" >
+  <h2>Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=wescorner&theme=github_dark&show_icons=true" />
+</div >
 
-### Languages and Skills
+<div id="skills" align="center" >
+  <h2>Languages and Tools</h2>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="" alt="" height="50px" width="50px" />&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="50px" width="50px" />&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" height="50px" width="50px" />&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" height="50px" width="50px" />&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" height="50px" width="50px" />&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" title="React" alt="React" height="50px" width="50px" />&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" title="Express" alt="Express" height="50px" width="50px" />&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="Postgres" height="50px" width="50px" />&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" height="50px" width="50px" />&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" height="50px" width="50px" />&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" height="50px" width="50px" />&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" height="50px" width="50px" />&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" height="50px" width="50px" />&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" alt="GoogleCloud" height="50px" width="50px" />
+</div>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### How to Reach Me:
-![https://linkedin.com/in/wescorner](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 <!--
 **wescorner/wescorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
