@@ -3,7 +3,7 @@
     Hey there!
     <img src="https://media1.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611a47aac1b6e8a5687f01361b8c8945718d875ff64&rid=giphy.gif&ct=s" width="30px" />
   </h1>
-<p>I'm Wesley, a UWO Software Engineering graduate and Full-Stack Developer!</p>
+<h4>I'm Wesley, a UWO Software Engineering graduate and Full-Stack Developer!</h4>
 <p>Intrests:</p>
 <p>🏋️Powerlifting</p>
 <p>🎮Gaming</p>
