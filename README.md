@@ -14,8 +14,11 @@
   <a href="https://linkedin.com/in/wescorner" >
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
+  <a href="https://resume.creddle.io/resume/ai0x9q4lb2m" >
+    <img src="https://img.shields.io/badge/Resume-24a58e?style=for-the-badge&logo=google-sheets&logoColor=ffffff" alt="resume" />
+  </a>
   <a href="https://www.instagram.com/wescorner" >
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" />
   </a>
 </div>
 
