@@ -5,10 +5,9 @@
   </h1>
 <h4>I'm Wesley, a UWO Software Engineering graduate and Full-Stack Developer!</h4>
 <p>Intrests:</p>
-<p>🏋️Powerlifting</p>
-<p>🎮Gaming</p>
-<p>♟️Chess</p>
-<p>Currently open to and looking for work!</p>
+<p>🏋️Powerlifting🏋️</p>
+<p>🎮Gaming🎮</p>
+<p>♟️Chess♟️</p>
 </div>
 <div id="badges" align="center" >
   <a href="https://linkedin.com/in/wescorner" >
