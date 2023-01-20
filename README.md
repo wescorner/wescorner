@@ -4,10 +4,12 @@
     <img src="https://media1.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611a47aac1b6e8a5687f01361b8c8945718d875ff64&rid=giphy.gif&ct=s" width="30px" />
   </h1>
 <h4>I'm Wesley, a UWO Software Engineering graduate and Full-Stack Developer!</h4>
+<!---
 <p>Interests:</p>
 <p>🏋️Powerlifting🏋️</p>
 <p>🎮Gaming🎮</p>
 <p>♟️Chess♟️</p>
+--->
 </div>
 <div id="badges" align="center" >
   <a href="https://linkedin.com/in/wescorner" >
@@ -20,12 +22,12 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" />
   </a>
 </div>
-
+<!---
 <div id="stats" align="center" >
   <h2>Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=wescorner&theme=github_dark&show_icons=true" />
 </div >
-
+--->
 <div id="skills" align="center" >
   <h2>Languages and Tools</h2>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="" alt="" height="50px" width="50px" />&nbsp
